@@ -1,5 +1,3 @@
-#Con este código se crean seis gráficas con las estadisticas de de un equipo pokemon al estilo del propio juego
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
