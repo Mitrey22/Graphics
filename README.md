@@ -10,4 +10,7 @@
 ![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/popular_pokemon_pie_chart.PNG "most popular pokemon 2020 pie chart")
 
 ## histograma_MTs_pokemon
-![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/histograma_MTs_pokemon.PNG "Cantidad de pokemon que aprenden ciertos MT's 1a generación")
+![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/histograma_MTs_pokemon.PNG "MT's pokemon can learn 1a generation")
+
+## comparation_grphic_plotnine
+![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/comparation_grphic_plotnine.PNG "comparation graphic in plotnine")
