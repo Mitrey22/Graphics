@@ -14,3 +14,8 @@
 
 ## comparation_grphic_plotnine
 ![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/comparation_grphic_plotnine.PNG "comparation graphic in plotnine")
+
+## my_pokemon_team_bokeh
+![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/my_pokemon_team_bokeh_part1.PNG "pokemon team graphic in bokeh part 1")
+![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/my_pokemon_team_bokeh_part2.PNG "pokemon team graphic in bokeh part 2")
+![graphics screenshots](https://github.com/Mitrey22/Graphics/blob/main/my_pokemon_team_bokeh_part3.PNG "pokemon team graphic in bokeh part 3")
