@@ -19,7 +19,7 @@ theta = np.linspace (0,2 * np.pi, len (stats), endpoint = False) #Con theta se e
                                                                  #la longitud de la variable stats y que no haya un punto final para que este relleno
 
 
-ax = plt.subplot (231, projection = 'polar') #De esta manera se crea el gáfico circular
+ax = plt.subplot (231, projection = 'polar') #De esta manera se crea el gáfico circular y se elige la posición del gráfico
 ax.plot (theta, honchrow, 'r-', lw = 1, alpha = 0.75) #Se crean los puntos dentro del grafico con las estadisticas de la lista honchrow
 ax.fill (theta, honchrow, 'r', alpha = 0.75) #La misma mecanica que arriba pero en vez de puntos es un relleno 
 ax.set_thetagrids (theta * 180 / np.pi, stats) #Se establecen los nombres de los campos
